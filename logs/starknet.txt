@@ -2,3 +2,4 @@
 {"jsonrpc":"2.0","id":"1","result":626758}
 {"jsonrpc":"2.0","id":"\"1\"","result":626759}
 {"jsonrpc":"2.0","id":"1","result":626768}
+{"jsonrpc":"2.0","id":"\"1\"","result":626778}
